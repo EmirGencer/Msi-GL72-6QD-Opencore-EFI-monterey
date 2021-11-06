@@ -1,7 +1,7 @@
 # Msi-GL72-6QD-Opencore-EFI-monterey 
 Greetings, I installed this device, I can't say that I did a great job, I didn't have a lot of time. But I still wanted to share in case anyone doesn't know.
 System features;
-Cpu: I7 6700HQ
+Cpu: I7 6700HQ 
 Ram: 16 GB Ram 2133mhz
 Gpu:  Nvida 950M (disabled) Intel HD Graphics 530 
 storage: 128 GB M2 SSD (HFS128G39MNC-3510A Media)  1 TB Hardisk (HGST HTS721010A9E630 Media)
