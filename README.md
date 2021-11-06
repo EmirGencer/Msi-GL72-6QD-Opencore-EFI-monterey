@@ -39,7 +39,7 @@ Ses(vooodooHDA ile)
  HDMI
  Bluetooh
  Wi-Fi
- Smbus
+ Smbus 
  Ethernet
  Çalışmayanlar:
  Uyku
