@@ -34,7 +34,7 @@ Grafik kartı: Nvida 950M(devre dışı) Intel HD Graphics 530
 Depolama:128 GB M2 SSD (HFS128G39MNC-3510A Media)  1 TB Hardisk (HGST HTS721010A9E630 Media)
 laptop modeli: MSI GL72 6QD-077XTR
 Çalışanlar:
-Ses(vooodooHDA ile)
+Ses(vooodooHDA ile) 
  Touchpad
  HDMI
  Bluetooh
