@@ -21,3 +21,5 @@ laptop model: MSI GL72 6QD-077XTR
  Camera
  ![Ekran Resmi 2021-11-06 15 26 49](https://user-images.githubusercontent.com/79666042/140609896-16e511ea-beec-4287-a23c-e542fd5254b1.png)
  
+![Ekran Resmi 2021-11-06 15 38 06](https://user-images.githubusercontent.com/79666042/140609927-59cd779a-fa5d-455b-b433-c7b55b0f4d22.png)
+![Ekran Resmi 2021-11-06 15 38 32](https://user-images.githubusercontent.com/79666042/140609944-a5eec93d-0bfa-4f78-9070-3aed5256c9c1.png)
