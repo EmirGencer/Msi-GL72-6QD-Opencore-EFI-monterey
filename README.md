@@ -26,6 +26,8 @@ Greetings, I installed this device, I can't say that I did a great job, I didn't
 ![Ekran Resmi 2021-11-06 15 38 32](https://user-images.githubusercontent.com/79666042/140609944-a5eec93d-0bfa-4f78-9070-3aed5256c9c1.png)
 ![Ekran Resmi 2021-11-06 15 39 01](https://user-images.githubusercontent.com/79666042/140610004-326324fb-b0b5-4d85-88b5-f4c27f12a639.png)
 
+- As you can see, the intel wifi is perfectly works ! (Görüldüğü gibi intel wifi doğru bir biçimde çalışıyor!)
+
 - Türkçe kısmı (Turkish part)
 - Selamlar  bu cihaza kurulum yaptım ve paylaşmak istedim. Çok iyi bir iş çıkardığım denilemez ama yinede bilmeyenler için belki yardımı dokunur diye buraya EFI'yi  yüklüyorum. 
 - Sistem parçaları
@@ -49,7 +51,7 @@ Greetings, I installed this device, I can't say that I did a great job, I didn't
  
  
 - The action to run the sound:
--First we enter recovery, then we open the terminal, then we write csrutil disable in the terminal and restart the system, we use the tool called kext droplet made by chris1111 https://github.com/chris1111/Kext-Droplet-Big-Sur   After that, we drag the kext to the application and tell it to install it to the L/E location.
+- First we enter recovery, then we open the terminal, then we write csrutil disable in the terminal and restart the system, we use the tool called kext droplet made by chris1111 https://github.com/chris1111/Kext-Droplet-Big-Sur   After that, we drag the kext to the application and tell it to install it to the L/E location.
 We allow the expansion in the Security and Privacy section under system preferences and we want us to restart the system, we say restart. And audio needs work.
 -Credit:https://www.insanelymac.com/forum/topic/314406-voodoohda-297/page/21/
 -Türkçe rehber için:https://osxinfo.net/konu/big-sur-11-3-sonrasi-vooodoohda-kullanmak.24355/
