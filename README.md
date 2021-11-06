@@ -51,3 +51,4 @@ Ses(vooodooHDA ile)
 First we enter recovery, then we open the terminal, then we write csrutil disable in the terminal and restart the system, we use the tool called kext droplet made by chris1111 https://github.com/chris1111/Kext-Droplet-Big-Sur   After that, we drag the kext to the application and tell it to install it to the L/E location.
 We allow the expansion in the Security and Privacy section under system preferences and we want us to restart the system, we say restart. And audio needs work.
 Credit:https://www.insanelymac.com/forum/topic/314406-voodoohda-297/page/21/
+Türkçe rehber için:https://osxinfo.net/konu/big-sur-11-3-sonrasi-vooodoohda-kullanmak.24355/
